@@ -59,9 +59,12 @@ app/
     ├── MainActivity.kt
     └── NoteApp.kt
 ```
-<img width="359" height="701" alt="image" src="https://github.com/user-attachments/assets/6aaf19db-3670-4d50-b752-738cb225fdf2" />
-<img width="1080" height="2280" alt="Screenshot_20250910_" src="https://github.com/user-attachments/assets/7752d255-ccc3-4eef-b14e-1d303e0f802a" />
-<img width="1080" height="2280" alt="Screenshot_20250910_191646" src="https://github.com/user-attachments/assets/5ea716e7-d4db-4f3a-841d-7a221cfedec3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6aaf19db-3670-4d50-b752-738cb225fdf2" alt="image1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7752d255-ccc3-4eef-b14e-1d303e0f802a" alt="image2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5ea716e7-d4db-4f3a-841d-7a221cfedec3" alt="image3" width="250"/>
+</p>
+
 
 ▶️ Kurulum
 
